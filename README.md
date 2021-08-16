@@ -14,8 +14,10 @@ test_client2.py - "remote" copy of messenger
 
 To launch the application you have to launch the test_client.py and test_client2.py in different shells or on different PC. In case you use different PC (different interfaces), you have to make changes in this section of test_client*.py files:
 
-TARGET_HOST = 
+TARGET_HOST =
+
 TARGET_READER_PORT = 
+
 TARGET_SENDER_PORT = 
 
 
